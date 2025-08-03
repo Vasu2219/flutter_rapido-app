@@ -90,11 +90,6 @@ A comprehensive corporate ride booking platform built with Flutter (mobile app),
 - **API Documentation**: `https://rapido-backend-api.onrender.com/api-docs`
 - **Mobile App**: Download and run from source (supports Android, iOS, Web)
 
-### Demo Credentials
-```
-Admin Login:
-Email: admin@corporaterides.com
-Password: Admin@123
 
 User Login:
 Register a new account or use the demo user credentials from the backend
