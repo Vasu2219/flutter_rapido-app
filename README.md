@@ -185,9 +185,7 @@ JWT_EXPIRES_IN=30d
 FRONTEND_URL=https://your-frontend-domain.com
 API_BASE_URL=https://your-api-domain.com
 
-# Admin Account
-DEFAULT_ADMIN_EMAIL=admin@yourcompany.com
-DEFAULT_ADMIN_PASSWORD=SecurePassword123
+
 ```
 
 ## 🚀 Deployment
