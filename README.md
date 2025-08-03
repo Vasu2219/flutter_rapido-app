@@ -46,7 +46,7 @@ A comprehensive corporate ride booking platform built with Flutter (mobile app),
 
 | Login Screen | Signup Screen |
 |:---:|:---:|
-| <img src="rapido_app/assets/images/login.jpg" alt="Login Screen" width="250"/> | <img src="rapido_app/assets/images/signup.jpg" alt="Signup Screen" width="250"/> |
+| <img src="assets/images/login.jpg" alt="Login Screen" width="250"/> | <img src="assets/images/signup.jpg" alt="Signup Screen" width="250"/> |
 | *Secure login with email and password* | *New user registration with corporate details* |
 
 </div>
@@ -59,12 +59,12 @@ A comprehensive corporate ride booking platform built with Flutter (mobile app),
 
 | User Dashboard | Book Ride |
 |:---:|:---:|
-| <img src="rapido_app/assets/images/userdashboard.jpg" alt="User Dashboard" width="250"/> | <img src="rapido_app/assets/images/Bookride.jpg" alt="Book Ride Screen" width="250"/> |
+| <img src="assets/images/userdashboard.jpg" alt="User Dashboard" width="250"/> | <img src="assets/images/Bookride.jpg" alt="Book Ride Screen" width="250"/> |
 | *Clean dashboard with recent rides* | *Easy ride booking interface* |
 
 | My Rides | User Menu |
 |:---:|:---:|
-| <img src="rapido_app/assets/images/myrides.jpg" alt="My Rides Screen" width="250"/> | <img src="rapido_app/assets/images/usermenu.jpg" alt="User Menu" width="250"/> |
+| <img src="assets/images/myrides.jpg" alt="My Rides Screen" width="250"/> | <img src="assets/images/usermenu.jpg" alt="User Menu" width="250"/> |
 | *Complete ride history with tracking* | *Navigation menu with settings* |
 
 </div>
@@ -77,7 +77,7 @@ A comprehensive corporate ride booking platform built with Flutter (mobile app),
 
 | Admin Dashboard | Admin Panel |
 |:---:|:---:|
-| <img src="rapido_app/assets/images/admindashboard.jpg" alt="Admin Dashboard" width="250"/> | <img src="rapido_app/assets/images/Adminpanel.jpg" alt="Admin Panel" width="250"/> |
+| <img src="assets/images/admindashboard.jpg" alt="Admin Dashboard" width="250"/> | <img src="assets/images/Adminpanel.jpg" alt="Admin Panel" width="250"/> |
 | *Comprehensive analytics dashboard* | *Complete platform management* |
 
 </div>
